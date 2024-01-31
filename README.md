@@ -1,16 +1,10 @@
-# buscador_cep
+# Sobre o projeto
 
-A new Flutter project.
+Aplicativo simples para buscar CEP, trata-se apenas de um teste de consumo de API. O objetivo principal é realizar consultas de CEP de forma prática e eficiente por meio da integração com uma API.
 
-## Getting Started
+## Layout
+![Mobile1](https://github.com/Junio-Alves/Buscador-Cep-Flutter/blob/main/buscador-cep1.gif).
 
-This project is a starting point for a Flutter application.
+# Autor
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fº Junio Alves
